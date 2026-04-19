@@ -1,5 +1,5 @@
 {
-  "routes": [
-    { "src": "/", "dest": "/Netflix-Clone/index.html" }
+  "rewrites": [
+    { "source": "/", "destination": "/Netflix-Clone/index.html" }
   ]
 }
